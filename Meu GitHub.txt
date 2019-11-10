@@ -1,0 +1,11 @@
+﻿Uma breve descrição sobre mim e meus interesses.
+
+Sou Brasileiro e nasci em Campinas, São Paulo, em 1969.
+Minha experiência profissional sempre foi na área de manutenção industrial.
+Iniciei como um técnico eletrônico e depois como engenheiro eletricista com enfase em eletrônica.
+Linguagem de programação e Internet das Coisas sempre foram assuntos de interesse, tratados como hobby.
+Minha memória nunca foi muito boa, então, sempre tive que escrever para me ajudar a lembrar.
+Estou comentando sobre essa minha característica porque usarei o GitHub realmente como um repositório.
+Obviamente aproveitando e compartilhando com outros interessados.
+
+Atensiosamente, Ismael Lopes da Silva.

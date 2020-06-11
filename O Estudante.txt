@@ -24,4 +24,4 @@ Bem, eu sou um sortudo, por ter essa mãe, que me proporcionou essas oportunidad
 Meus estudos na área técnica foram profissionalizante em eletrotécnica, profissionalizante reparador 
 de circuitos eletrônicos, técnico eletrônico e engenheiro eletricista modalidade eletrônica.
 Linguagens de programação sempre foram uma paixão paralela. Meus estudos formais foram na área de
-eletrônica industrial e informal foram linguagens de programação, Excel e Access avançado.
+eletrônica industrial e informal foram linguagens de programação, Excel, Access avançad e sistemas embarcados.
